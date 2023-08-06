@@ -5,6 +5,6 @@
 ![Web Developer](https://img.shields.io/badge/web_developer-8367C7?style=for-the-badge&logo=visual-studio-code&logoColor=FFF&labelColor=8367C7)
 </br>
 
-![https://rocapp.dev](https://rocapp.dev/media/logo.png)
+![https://rocapp.dev](logo.png)
 
 ### Visit my [website](https://rocapp.dev) or find me on [Google Play](https://play.google.com/store/apps/dev?id=8266693053120661040&hl) and [App Store](https://apps.apple.com/us/developer/rocio-carrero/id1694011540)  📱
